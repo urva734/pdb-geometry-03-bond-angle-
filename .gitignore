@@ -1,3 +1,2 @@
-*.pdb
 __pycache__/
 .vscode/
